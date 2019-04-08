@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<odoo>
+
+<template id="robots">
+User-agent: *
+Disallow: /
+</template>
+
+</odoo>
